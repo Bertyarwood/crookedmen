@@ -480,7 +480,7 @@ h6,
   background-color: #ffffff;
 }
 #header1-1 .mbr-section-title {
-  color: #e25041;
+  color: #3d8eb9;
 }
 #features3-2 SPAN {
   font-family: 'Lora', serif;
@@ -489,6 +489,45 @@ h6,
 #msg-box3-4 .mbr-section-title,
 #msg-box3-4 p {
   color: #000;
+}
+#msg-box3-4 .lead UL {
+  text-align: center;
+}
+#msg-box3-4 .lead LI {
+  text-align: center;
+}
+#msg-box3-6 .mbr-section-title,
+#msg-box3-6 p {
+  color: #000;
+}
+#msg-box3-6 .lead UL {
+  text-align: center;
+}
+#msg-box3-7 .mbr-section-title,
+#msg-box3-7 p {
+  color: #000;
+}
+#msg-box3-8 .mbr-section-title,
+#msg-box3-8 p {
+  color: #000;
+}
+#msg-box3-9 .mbr-section-title,
+#msg-box3-9 p {
+  color: #000;
+}
+#msg-box3-a .mbr-section-title,
+#msg-box3-a p {
+  color: #000;
+}
+#msg-box3-b .mbr-section-title,
+#msg-box3-b p {
+  color: #000;
+}
+#msg-box3-b .lead H3 {
+  font-size: 19px;
+}
+#msg-box3-b .lead P {
+  font-size: 20px;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
