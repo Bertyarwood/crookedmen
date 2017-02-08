@@ -244,7 +244,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/junior-600x440.jpg",
+              "src": "@PROJECT_PATH@/assets/images/junior-600x461.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -345,7 +345,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/money-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/holiday-600x449.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
