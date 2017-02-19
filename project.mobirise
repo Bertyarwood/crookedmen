@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page8.html",
+    "currentPage": "page1.html",
     "name": "Old Lags 2017",
     "theme": {
       "name": "mobirise3",
@@ -32,7 +32,7 @@
       "settings": {
         "main": true,
         "title": "OldLagsGolf2017",
-        "meta_descr": "",
+        "meta_descr": "Old Lags",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -476,7 +476,8 @@
     },
     "page1.html": {
       "settings": {
-        "title": "Whittington"
+        "title": "Whittington",
+        "meta_descr": "Whittngton"
       },
       "components": [
         {
