@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "name": "Old Lags 2017",
     "theme": {
       "name": "mobirise3",
@@ -32,7 +32,7 @@
       "settings": {
         "main": true,
         "title": "OldLagsGolf2017",
-        "meta_descr": "Old Lags",
+        "meta_descr": "Old Lags Golf 2017",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Old Lags Golf</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
         },
         {
           "_name": "header1",
@@ -566,7 +566,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Old Lags Golf</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
         },
         {
           "_name": "footer1",
@@ -659,7 +659,7 @@
             "showButton": true
           },
           "title": "<br><span style=\"line-height: 1.1;\">Whittington Heath</span><br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\">Organiser: Bertie<br></span><br><br>Tuesday 25th April<br><br><div>Meet at 12:00 for Lunch</div><br><div><span style=\"line-height: 1.1;\">Tee Times: 13:00 and 13:10</span><br></div><br><div><span style=\"line-height: 1.1;\">Cost £35</span><br></div>",
-          "text": "<p><b>Playing:</b> &nbsp;Bert Yarwood,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Martin Wilkes,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">John Cookson,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Malcolm Taft, Dave West </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">&amp; Steve West.</span></p>",
+          "text": "<p><b>Playing:</b> &nbsp;Bert Yarwood,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Martin Wilkes,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">John Cookson,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Malcolm Taft,&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&amp; Steve West.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Apolgies</b>: Dave West</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Return</a>"
         }
       ]
@@ -1046,7 +1046,7 @@
     },
     "page4.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Enville Old Lags",
         "title": "Enville"
       },
       "components": [
@@ -1236,7 +1236,8 @@
     },
     "page5.html": {
       "settings": {
-        "title": "Kirby"
+        "title": "Kirby",
+        "meta_descr": "Kirby Old Lags"
       },
       "components": [
         {
@@ -1425,7 +1426,8 @@
     },
     "page6.html": {
       "settings": {
-        "title": "Moseley"
+        "title": "Moseley",
+        "meta_descr": "Moseley Old Lags"
       },
       "components": [
         {
@@ -1614,7 +1616,8 @@
     },
     "page7.html": {
       "settings": {
-        "title": "Wollaton"
+        "title": "Wollaton",
+        "meta_descr": "Wollaton Park Old Lags"
       },
       "components": [
         {
@@ -1804,7 +1807,7 @@
     "page8.html": {
       "settings": {
         "title": "gallery",
-        "meta_descr": ""
+        "meta_descr": "Old Lags Gallery"
       },
       "components": [
         {
@@ -1923,7 +1926,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Old Lags Golf</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
         },
         {
           "_name": "footer1",
