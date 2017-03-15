@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "name": "Old Lags 2017",
     "theme": {
       "name": "mobirise3",
@@ -134,7 +134,7 @@
               "color": "#1a4bdf"
             },
             ".mbr-section-lead": {
-              "color": "#553982"
+              "color": "#5511f2"
             }
           },
           "_anchor": "header1-1",
@@ -158,8 +158,8 @@
             "showButtons": true
           },
           "title": "Old Lags Golf 2017",
-          "text": "Here we go.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Next Fixture</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"index.html#features3-2\" data-toolbar=\"-mbrBtnMove\">Summary</a>"
+          "text": "<br>April 25th Whittington<br>May 19th Edgbaston<br>June Sutton<br>July 21st Enville<br>August Kirby<br>September 18th Moseley<br>October Woollaton Park",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Next Fixture Whittington</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"index.html#features3-2\" data-toolbar=\"-mbrBtnMove\">Summary</a>"
         },
         {
           "_name": "footer1",
