@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "name": "Old Lags 2017",
     "theme": {
       "name": "mobirise3",
@@ -32,7 +32,7 @@
       "settings": {
         "main": true,
         "title": "OldLagsGolf2017",
-        "meta_descr": "Old Lags Golf 2017",
+        "meta_descr": "Old Lags Golf 2017.  This is an experimental private site for a group of friends playing golf.  All information in here is just for fun.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -477,7 +477,7 @@
     "page1.html": {
       "settings": {
         "title": "Whittington",
-        "meta_descr": "Whittngton"
+        "meta_descr": "Whittngton is a golf course near Lichfield and is a highly regarded good test of golf.  It is particularly good in the winter months."
       },
       "components": [
         {
@@ -666,7 +666,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Edgbaston",
+        "meta_descr": "Edgbaston Golf Club is an excellent course in the heart of birmingham.",
         "title": "Edgbaston"
       },
       "components": [
@@ -856,7 +856,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Sutton",
+        "meta_descr": "Sutton Golf Club is an axcellent heathland course on well drained land.",
         "title": "Sutton"
       },
       "components": [
@@ -1807,7 +1807,7 @@
     "page8.html": {
       "settings": {
         "title": "gallery",
-        "meta_descr": "Old Lags Gallery"
+        "meta_descr": "Old Lags Gallery.  Some silly photos and images."
       },
       "components": [
         {
