@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "name": "Old Lags 2017",
     "theme": {
       "name": "mobirise3",
@@ -849,7 +849,7 @@
             "showButton": true
           },
           "title": "<br>Edgbaston Golf Club<br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\">Organiser: Fred<br></span><br><br>Friday May 19th<br><br><div>Meet at&nbsp;</div><br><div><span style=\"line-height: 1.1;\">Tee Times:&nbsp;</span><br></div><br><div><span style=\"line-height: 1.1;\">Cost&nbsp;</span><br></div>",
-          "text": "<p><b>Playing:</b> &nbsp;Bert Yarwood,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Martin Wilkes,&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>TBC:</b> Dave West, Steve West, John Cookson, Malcolm Taft, Steve Dewar</span></p>",
+          "text": "<p><b>Playing:</b> &nbsp;Bert Yarwood,&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Martin Wilkes, Steve West</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>TBC:</b> Dave West, John Cookson, Malcolm Taft, Steve Dewar</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Return</a>"
         }
       ]
