@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "name": "Old Lags 2017",
     "theme": {
       "name": "mobirise3",
@@ -1103,7 +1103,7 @@
             "showButton": true
           },
           "title": "<br>Sutton Golf Club<br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\">Organiser: Steve West<br></span><br><br>Thursday June 22nd<br><br><div>Meet at &nbsp;12:30</div><br><div><span style=\"line-height: 1.1;\">Tee Times: &nbsp;1:30</span><br></div><br><div><span style=\"line-height: 1.1;\">Cost &nbsp;£20</span><br></div>",
-          "text": "<p><b>Playing:</b>&nbsp; Steve W<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>TBC:</b> Dave West, Steve West, John Cookson, Malcolm Taft, Steve Dewar, Martin Wilkes</span></p>",
+          "text": "<p><b>Playing:</b>&nbsp; Steve W, Bertie, Steve D, John C, Andrew B</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>TBC:</b>&nbsp; Malcolm Taft</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Apologies:</b> &nbsp;Dave W, Fred</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Return</a>"
         }
       ]
