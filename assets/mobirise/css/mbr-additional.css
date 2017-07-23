@@ -660,6 +660,12 @@ h6,
 #msg-box3-l .mbr-section-title SPAN {
   font-size: 19px;
 }
+#msg-box2-23 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-23 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #menu-m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -740,6 +746,12 @@ h6,
 }
 #msg-box3-p .mbr-section-title SPAN {
   font-size: 19px;
+}
+#msg-box2-25 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-25 .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #menu-q .hide-buttons .nav-btn {
   display: none !important;
@@ -824,6 +836,12 @@ h6,
 }
 #msg-box3-t .mbr-section-title DIV {
   color: #f3c649;
+}
+#msg-box2-24 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-24 .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #menu-u .hide-buttons .nav-btn {
   display: none !important;

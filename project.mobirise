@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page8.html",
+    "currentPage": "page9.html",
     "name": "Old Lags 2017",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 75,
+    "uniqCompNum": 78,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Old Lags Golf</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Leaderboard</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Whittington</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1s\">Edgbaston</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1x\">Sutton</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Leaderboard</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Whittington</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1s\">Edbaston</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1x\">Sutton</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-21\">Enville</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Kirby</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
         },
         {
           "_name": "header1",
@@ -566,7 +566,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Old Lags Golf</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Leaderboard</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Whittington</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1s\">Edgbaston</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Leaderboard</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Whittington</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1s\">Edbaston</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1x\">Sutton</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-21\">Enville</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Kirby</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
         },
         {
           "_name": "footer1",
@@ -709,7 +709,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">For photos see the gallery</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page8.html#msg-box1-1m\" data-toolbar=\"-mbrBtnMove\">For photos see the gallery</a>",
           "title": "",
           "text": ""
         }
@@ -807,7 +807,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Old Lags Golf</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Leaderboard</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Whittington</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1s\">Edgbaston</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Leaderboard</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Whittington</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1s\">Edbaston</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1x\">Sutton</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-21\">Enville</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Kirby</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
         },
         {
           "_name": "footer1",
@@ -915,6 +915,44 @@
             "bgColor": "#fff"
           },
           "text": "<p>An excellent afternoon at Edgbaston. &nbsp;Always a wonderful surprise to play among all the trees with barely a building in sight. &nbsp;Hard to believe that it is only a couple of miles from the city centre.</p><p><br></p><p>It all looked as though it was going to be fairly close at half-time but then Dr Golf had obviously taken a dose of his own medicine and ended up with a blistering back nine. &nbsp;Our welcome guest Andrew was close on his heels with Junior trying hard to keep up. &nbsp;Big bro' was doing his best to shake off his nickname but still managed to grumble even though he too had a good back nine. &nbsp;Us Saturday boys are not used to competing so hard and all four of us ended up with the same score. &nbsp;Sadly it was under 30 points. &nbsp;Never mind it was a lovely afternoon.</p><p><br></p><p>The Old Mo' did us proud afterwards. &nbsp;They even had Bathams Bitter. &nbsp;Brilliant. &nbsp;</p><p><br></p><p>Well done Fred</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-23",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page8.html#msg-box1-1s\" data-toolbar=\"-mbrBtnMove\">For photos go to gallery</a>",
+          "title": "",
+          "text": ""
         }
       ]
     },
@@ -1010,7 +1048,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Old Lags Golf</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Leaderboard</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Whittington</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1s\">Edgbaston</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Sutton</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Leaderboard</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Whittington</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1s\">Edbaston</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1x\">Sutton</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-21\">Enville</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Kirby</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
         },
         {
           "_name": "footer1",
@@ -1118,6 +1156,44 @@
             "bgColor": "#fff"
           },
           "text": "<p>Sutton saw more of the same with overall leaders &nbsp;Dr Golf and Junior slugging it out only to end up with 33 points apiece. &nbsp;Can anyone catch them? &nbsp;Well yes obviously. &nbsp;With 5 out of 7 counting, do rule out anyone least of all our correspondent in New Zealand.</p><p><br></p><p>A little way behind the Sutton leaders our Special Agent had a difficult time and could not repeat his good Edgbaston form. &nbsp;Once again the Saturday morning boys failed to perform except on the 17th. &nbsp;The Steves and I were waiting to play the 17th and we thought that it looked far more difficult than the S.I. of 17 suggests. &nbsp;Steve D and I both proceeded to stuff our balls on to the green - easy!</p><p><br></p><p>A return to the Chennai rounded off the afternoon. &nbsp;Thanks Junior for organising yet another good one.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-25",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page8html#msg-box1-1x\" data-toolbar=\"-mbrBtnMove\">For photos see gallery</a>",
+          "title": "",
+          "text": ""
         }
       ]
     },
@@ -1213,7 +1289,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Old Lags Golf</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Leaderboard</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Whittington</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Leaderboard</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Whittington</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1s\">Edbaston</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1x\">Sutton</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-21\">Enville</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Kirby</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
         },
         {
           "_name": "footer1",
@@ -1323,7 +1399,45 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Well, what a terrific venue. &nbsp;But first a welcome return to two new Old Lags to our monthly tour event. &nbsp;We had Nigel (Mr Bomber - you should have seen his drives) Mills and John (Mr Charming) McKeun who enjoyed a solo visit to the Cat before meeting up in the clubhouse. &nbsp;They were last seen, by most of us, somewhere near Calais after the Le Touquet extravaganza of 2015.</p><p><br></p><p>The course was beautiful....and challenging. &nbsp;Mr Grumpy was the day's winner but only by one shot from Bomber who missed out after an excellent round only to blow up on the 18th. &nbsp;Mr Grumpy it has to be said was somewhat handicapped - he had to manage without his new driver for much of the round. &nbsp;Who would have thought that such a slight frame would have the strength to snap the shaft on his backswing?. I expect the grumpy lawyer's letter to his sponsor has already been drafted. &nbsp;Former champion Mr Charming was full of praise for the course and like many of us would like to have played better. &nbsp;Mr Average was, well, pretty average. &nbsp;And our organiser for the day should be complimented on an excellent choice and he, Mr Wine that is, even cut short his holiday to come and host us. &nbsp;As for me, the golf is best forgotten - maybe shouldering the responsibilities as architect of this lot is weighing too heavily.</p><p><br></p><p>The weather has to be mentioned. &nbsp;OKish for 12 holes and then steady wet stuff pretty much all the way &nbsp;after that. &nbsp;My sodden card says it all.</p><p><br></p><p>But the Cat in Enville delivered well. &nbsp;7 real ales many of them from the nearby Enville brewery. &nbsp;Great faggots too and an early finish. &nbsp;Well done John.</p>"
+          "text": "<p>Well, what a terrific venue. &nbsp;But first a welcome return to two new Old Lags to our monthly tour event. &nbsp;We had Nigel (Mr Bomber - you should have seen his drives) Mills and John (Mr Charming) McKeun who enjoyed a solo visit to the Cat before meeting up in the clubhouse. &nbsp;They were last seen, by most of us, somewhere near Calais after the Le Touquet extravaganza of 2015.</p><p><br></p><p>The course was beautiful....and challenging. &nbsp;Mr Grumpy was the day's winner but only by one shot from Bomber who missed out after an excellent round only to blow up on the 18th. &nbsp;Mr Grumpy it has to be said was somewhat handicapped - he had to manage without his new driver for much of the round. &nbsp;Who would have thought that such a slight frame would have the strength to snap the shaft on his backswing?. I expect the grumpy lawyer's letter to his sponsor has already been drafted. &nbsp;Former champion Mr Charming was full of praise for the course and like many of us would like to have played better. &nbsp;Mr Average was, well, pretty average. &nbsp;And our organiser for the day should be complimented on an excellent choice and he, Mr Wine that is, even cut short his holiday to come and host us. &nbsp;As for me, the golf is best forgotten - maybe shouldering the responsibilities as architect of this lot is weighing too heavily.</p><p><br></p><p>The weather has to be mentioned. &nbsp;OKish for 12 holes and then steady wet stuff pretty much all the way &nbsp;after that. &nbsp;My sodden card says it all.</p><p><br></p><p>But the Cat in Enville delivered well. &nbsp;It had 7 real ales many of them from the nearby Enville brewery. &nbsp;Great faggots too and an early finish. &nbsp;Well done John.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-24",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page8.html#msg-box2-21\" data-toolbar=\"-mbrBtnMove\">For photos see gallery</a>",
+          "title": "",
+          "text": ""
         }
       ]
     },
@@ -2019,7 +2133,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Old Lags Golf</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Leaderboard</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Whittington</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1s\">Edgbaston</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1x\">Sutton</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Leaderboard</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Events</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">April</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">May</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">June</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">July</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">August</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">September</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">October</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page8.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html\">CMW - Winter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1e\">Mr Happy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Whittington</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1s\">Edbaston</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1x\">Sutton</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-21\">Enville</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box1-1m\">Kirby</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-16\">Contact organiser</a></li>"
         },
         {
           "_name": "footer1",
@@ -2948,7 +3062,7 @@
           },
           "_anchor": "content1-1i",
           "_params": {
-            "paddingTop": "6",
+            "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
