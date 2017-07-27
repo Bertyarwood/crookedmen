@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page9.html",
+    "currentPage": "page5.html",
     "name": "Old Lags 2017",
     "theme": {
       "name": "mobirise3",
@@ -158,8 +158,8 @@
             "showButtons": true
           },
           "title": "Old Lags Golf 2017",
-          "text": "<br>April 25th Whittington<br>May 19th Edgbaston<br>June 22nd Sutton<br>July 21st Enville<br>August Kirby<br>September 18th Moseley<br>October Woollaton Park",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Next Fixture Kirby?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"index.html#features3-2\" data-toolbar=\"-mbrBtnMove\">Summary</a>"
+          "text": "<br>April 25th Whittington<br>May 19th Edgbaston<br>June 22nd Sutton<br>July 21st Enville<br>August 17th Kirby<br>September 18th Moseley<br>October Woollaton Park",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">Next Fixture Kirby</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"index.html#features3-2\" data-toolbar=\"-mbrBtnMove\">Summary</a>"
         },
         {
           "_name": "footer1",
@@ -342,7 +342,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "August",
+          "title1": "August 17th",
           "subtitle1": "Kirby Muxloe<br>Dave West",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -1625,8 +1625,8 @@
             "showText": true,
             "showButton": true
           },
-          "title": "<br>Kirby Muxloe Golf Club<br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\">Organiser: Mr Grumpy<br></span><br><br>August&nbsp;<br><br><div>Meet at&nbsp;</div><br><div><span style=\"line-height: 1.1;\">Tee Times:&nbsp;</span><br></div><br><div><span style=\"line-height: 1.1;\">Cost&nbsp;</span><br></div>",
-          "text": "<p><b>Playing:</b>&nbsp; Dave West<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>TBC:</b>&nbsp;John Cookson, Steve West, Bert Yarwood, Malcolm Taft, Steve Dewar, Martin Wilkes</span></p>",
+          "title": "<br>Kirby Muxloe Golf Club<br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\">Organiser: Mr Grumpy<br></span><br><br>Thursday August &nbsp;17th<br><br><div>Meet at : 12:30</div><br><div><span style=\"line-height: 1.1;\">Tee Times: &nbsp;1:30/1.40</span><br></div><br><div><span style=\"line-height: 1.1;\">Cost &nbsp;£20</span><br></div>",
+          "text": "<p><b>Playing:</b>&nbsp; Dave West<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;, Bert Yarwood, John Cookson, Fred Wilkes, Nigel Mills, Steve West, Malcolm Taft</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>TBC:</b>&nbsp;George Hawkins, Steve Dewar,&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Apologies</b>: Andrew Burley, John McKeun</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Return</a>"
         }
       ]
