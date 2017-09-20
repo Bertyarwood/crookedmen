@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "name": "Old Lags 2017",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 82,
+    "uniqCompNum": 84,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -159,7 +159,7 @@
           },
           "title": "Old Lags Golf 2017",
           "text": "<br>April 25th Whittington<br>May 19th Edgbaston<br>June 22nd Sutton<br>July 21st Enville<br>August 17th Kirby<br>September 18th Moseley<br>October Woollaton Park",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Next Fixture Moseley</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"index.html#features3-2\" data-toolbar=\"-mbrBtnMove\">Summary</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Next Fixture Woolaton</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"index.html#features3-2\" data-toolbar=\"-mbrBtnMove\">Summary</a>"
         },
         {
           "_name": "footer1",
@@ -1831,6 +1831,19 @@
           "title": "<br>Moseley Golf Club<br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\">Organiser: Steve Dewar<br></span><br><br>Monday &nbsp;September 18th&nbsp;<br><br><div>Meet at &nbsp;<span style=\"font-weight: normal;\">11:30</span></div><br><div><span style=\"line-height: 1.1;\">Tee Times: &nbsp; <span style=\"font-weight: normal;\">.12:30 12:40 &amp; 12:50</span></span><br></div><br><div><span style=\"line-height: 1.1;\">Cost &nbsp;<span style=\"font-weight: normal;\">c£30</span></span><br></div>",
           "text": "<p><b>Playing:</b>&nbsp; Steve Dewar, Bert Yarwood, Dave West, Andrew Burley, John Cookson, Steve West, Malcolm Taft, Martin Wilkes, Nigel Mills</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Apologies:</b> George Hawkins, John McKeon</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Later:</b> Beer and curry at the Old Moseley Arms</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Return</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Report from Mr Grumpy:</p><p><br></p><p>\"Well done Steve D on organising Moseley GC. &nbsp;I enjoyed the day, hated the greens or they hated me but \"c'est la&nbsp;<div>vie\". Well played Malcolm, even his bad shots are good! &nbsp;Perhaps handicap committee needs to meet after each of these events as per tour? Moseley Arms looked after us well post golf.</div><div> </div><div><br></div><div>Interesting day which will stick in the memory bank with Nigel minus his lost car keys leaving Moseley GC with his golf clubs in the back of Wayne's trailer  vehicle complete with flashing yellow lights whilst Nigel's BMW sounded its alarm having been dragged off the car park on to the trailer (with assurances from Wayne that even though it was in \"park\" it would not damage the automatic gearbox - hope he is right about that otherwise we might have another litigation case for the lawyers!) &nbsp;I am sure that John aka Mr Charming will be interested to hear of the next chapter of Nigel's never boring life experiences.\"<br><p><br></p></div></p>"
         }
       ]
     },
@@ -3211,7 +3224,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h1>Leaderboard</h1><h1>Overall</h1><ol><li>138 points - Dr Golf (4)</li><li>128 points - Junior (4)</li><li>124 points - Mr Organiser (5)</li><li>109 points - Mr Wine (5)</li><li>108 points - Mr Average (4)&nbsp;</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">97 points - Mr Holiday (4)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">91 points - Mr Grumpy (3)</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">59 points - Mr Bond (2)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">59 points - Bomber (2)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">24 points - Mr Charming (1)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">22 points - Mr Money (1)</span></li></ol>"
+          "text": "<h1>Leaderboard</h1><h1>Overall</h1><ol><li>173 points - Dr Golf (5)</li><li>159 points - Junior (5)</li><li>137 points - Mr Organiser (5/6)</li><li>131 points - Mr Average (5)</li><li>118 points - Mr Grumpy (4)&nbsp;</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">116 points - Mr Holiday (5)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">112 points - Mr Wine (5/6)</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">88 points - Mr Bond (3)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">85 points - Bomber (3)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">24 points - Mr Charming (1)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">22 points - Mr Money (1)</span></li></ol>"
         },
         {
           "_tags": [
@@ -3224,7 +3237,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Notes:</b></p><ul><li>Figures in brackets indicate the number of rounds played.</li><li>Eventual winner will be determined by the best 5 rounds played.</li></ul><p><b><br></b></p><p><b>Whittington</b></p><p><b><br></b></p><ol><li>33 points - Steve (Junior) West</li><li>33 points - Malcolm (Dr Golf) Taft</li><li>31 points - Fred (Mr Average) Wilkes</li><li>27 points - Steve (Holiday) Dewar</li><li>26 points - Bertie (Wrong Ball) Yarwood</li><li>24 points - John (Mr Wine) Cookson</li><li>22 points - George (Mr Money) Hawkins</li><li>DNS - Dave (Mr Grumpy) West</li></ol>"
+          "text": "<p><b>Notes:</b></p><ul><li>Figures in brackets indicate the number of rounds played. (5/6) means best 5 out of 6 rounds</li><li>Eventual winner will be determined by the best 5 rounds played. &nbsp;For those playing less than 5, a factor will be applied!</li></ul><p><b><br></b></p><p><b>Whittington</b></p><p><b><br></b></p><ol><li>33 points - Steve (Junior) West</li><li>33 points - Malcolm (Dr Golf) Taft</li><li>31 points - Fred (Mr Average) Wilkes</li><li>27 points - Steve (Holiday) Dewar</li><li>26 points - Bertie (Wrong Ball) Yarwood</li><li>24 points - John (Mr Wine) Cookson</li><li>22 points - George (Mr Money) Hawkins</li><li>DNS - Dave (Mr Grumpy) West</li></ol>"
         },
         {
           "_tags": [
@@ -3277,6 +3290,19 @@
             "bgColor": "#fff"
           },
           "text": "<p><b>Kirby</b></p><p><br></p><ol><li>35 points - Dr Golf</li><li>32 points - Mr Navigator</li><li>30 points - Bomber</li><li>29 points - Junior</li><li>29 points - Mr Grumpy</li><li>27 points - Mr Average</li><li>24 points - Mr Holiday</li><li>21 points - Mr Wine</li></ol>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Moseley</b></p><p><b><br></b></p><ol><li>35 points - Dr Golf</li><li>33 points - Junior</li><li>29 points - Mr Navigator&nbsp;</li><li>29 points - Mr Bond</li><li>28 points - Mr Average</li><li>27 points - Mr Grumpy</li><li>26 points - Qui est la?</li><li>19 points - Mr Holiday</li><li>19 points - Mr Wine</li></ol>"
         }
       ]
     }
