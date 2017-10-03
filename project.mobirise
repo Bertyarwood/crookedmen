@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page8.html",
+    "currentPage": "page7.html",
     "name": "Old Lags 2017",
     "theme": {
       "name": "mobirise3",
@@ -158,7 +158,7 @@
             "showButtons": true
           },
           "title": "Old Lags Golf 2017",
-          "text": "<br>April 25th Whittington<br>May 19th Edgbaston<br>June 22nd Sutton<br>July 21st Enville<br>August 17th Kirby<br>September 18th Moseley<br>October Woollaton Park",
+          "text": "<br>April 25th Whittington<br>May 19th Edgbaston<br>June 22nd Sutton<br>July 21st Enville<br>August 17th Kirby<br>September 18th Moseley<br><b>October 23rd Woollaton Park&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Next Fixture Woolaton</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"index.html#features3-2\" data-toolbar=\"-mbrBtnMove\">Summary</a>"
         },
         {
@@ -2031,8 +2031,8 @@
             "showText": true,
             "showButton": true
           },
-          "title": "<br>Wollaton Park Golf Club<br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\">Organiser: Malcolm Taft<br></span><br><br>October&nbsp;<br><br><div>Meet at&nbsp;</div><br><div><span style=\"line-height: 1.1;\">Tee Times:&nbsp;</span><br></div><br><div><span style=\"line-height: 1.1;\">Cost&nbsp;</span><br></div>",
-          "text": "<p><b>Playing:</b>&nbsp; Malcolm Taft</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>TBC:</b>&nbsp;John Cookson, Steve West, Bert Yarwood, Dave West, Steve Dewar, Martin Wilkes</span></p>",
+          "title": "<br>Wollaton Park Golf Club<br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\">Organiser: Malcolm Taft<br></span><br><br>Monday 23rd October&nbsp;<br><br><div>Meet at &nbsp;<span style=\"font-weight: normal;\">11:45</span></div><br><div><span style=\"line-height: 1.1;\">Tee Times: &nbsp; <span style=\"font-weight: normal;\">12:30ish</span></span><br></div><br><div><span style=\"line-height: 1.1;\">Cost&nbsp;</span><br></div>",
+          "text": "<p><b>Playing:</b>&nbsp; Malcolm Taft, Bert Yarwood, Steve West, Dave West, Nigel Mills, John Mckeon</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>TBC:</b>&nbsp;John Cookson, Steve Dewar, Martin Wilkes &amp; Peter Hoghon, Andre Burley, George Hawkins</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Return</a>"
         }
       ]
