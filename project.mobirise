@@ -1971,7 +1971,7 @@
           },
           "_anchor": "image2-14",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgColor": "#000000",
             "showText": false
